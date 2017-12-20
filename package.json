@@ -6,7 +6,8 @@
   "scripts": {
     "test": "test",
     "release": "standard-version",
-    "release:beta": "standard-version -p beta"
+    "release:beta": "standard-version -p beta",
+    "clean": "rimraf dist"
   },
   "repository": {
     "type": "git",
