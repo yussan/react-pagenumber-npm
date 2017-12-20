@@ -1,0 +1,26 @@
+{
+  "name": "react-pagination",
+  "version": "1.0.0",
+  "description": "Ready to use pagination React component",
+  "main": "./dist/index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yussan/react-pagination.git"
+  },
+  "keywords": [
+    "react",
+    "react",
+    "js",
+    "jsx",
+    "component"
+  ],
+  "author": "yussan <yussandeveloper@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yussan/react-pagination/issues"
+  },
+  "homepage": "https://github.com/yussan/react-pagination#readme"
+}
